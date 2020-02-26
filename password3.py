@@ -19,8 +19,3 @@ while True:
 		if c == 3:
 			print ('帳號已經鎖定')
 			break
-
-
-    
-
-c = c + 1
